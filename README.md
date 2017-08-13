@@ -1,6 +1,6 @@
-#本地来红自动预警
+# 本地来红自动预警
 
-##使用方法
+## 使用方法
 
 在想要发送预警消息的预警频道输入`.startalert`即可。频道显示`AutoAlert:Alert started`表明开始预警。停止预警输入`.stopalert`
 
